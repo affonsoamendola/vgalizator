@@ -7,11 +7,17 @@
  Structure of .plt files
  
  The .plt files follow the following structure:
+ 
  index r g b\n
+ 
  index r g b\n
+ 
  ...
  
  Example:
+ 
  0 20 30 63
+ 
  3 30 10 50
+ 
  2 10 30 50
